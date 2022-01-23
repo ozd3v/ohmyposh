@@ -69,7 +69,7 @@
                         "prefix": " \uE235 ",
                         "display_mode": "context",
                         "fetch_virtual_env": true,
-                        "template": "{{ .Full }} in {{ .Venv }}"
+                        "template": "{{ .Full }} {{ .Venv }}"
                     }
                 },
                 {

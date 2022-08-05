@@ -73,6 +73,18 @@
                     }
                 },
                 {
+                    "type": "rust",
+                    "style": "powerline",
+                    "powerline_symbol": "\uE0B0",
+                    "foreground": "#ffffff",
+                    "background": "#000000",
+                    "template": " \uE7a8 {{ .Full }} ",
+                    "properties": {
+                        "prefix": " \uE7A8 ",
+                        "display_mode": "files"
+                    }
+                },
+                {
                     "type": "node",
                     "style": "powerline",
                     "powerline_symbol": "\uE0B0",

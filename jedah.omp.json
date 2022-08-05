@@ -76,11 +76,11 @@
                     "type": "rust",
                     "style": "powerline",
                     "powerline_symbol": "\uE0B0",
-                    "foreground": "#ffffff",
-                    "background": "#000000",
+                    "foreground": "#193549",
+                    "background": "#99908a",
                     "template": " \uE7a8 {{ .Full }} ",
                     "properties": {
-                        "prefix": " \uE7A8 ",
+                        "prefix": "\uE7A8 ",
                         "display_mode": "files"
                     }
                 },
